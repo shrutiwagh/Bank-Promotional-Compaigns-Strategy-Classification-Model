@@ -4,7 +4,7 @@ To Classify whether the customer subscribed a term deposit or not
 
 The File is a Jupyter Notebook
 
-Hackathon Competation By Analytics Vidhya ,
+Hackathon Competition By Analytics Vidhya ,
 
 To classify wether the customer Subscribed a Term Deposit or Not
 
